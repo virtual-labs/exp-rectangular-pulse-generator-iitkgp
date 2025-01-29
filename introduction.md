@@ -1,0 +1,5 @@
+## Introduction
+
+Lightning is phenomenon which occurs with a random probability. They are generally followed by re-strikes at the same point. Due to consecutive re-strikes, the arrester may fail, although, it provides complete insulation for the first strike. Long pulse current pulses basically give a measure of the amount of thermal stress the test sample can withstand safely. A series of pulses with larger pulse widths can effectively test the sample for lightning restrike.  
+
+Generation of rectangular pulse current of high magnitudes up to few hundreds of amperes and duration of few ms can be done by discharging a pulse network or cable previously charged. Apart from the standard impulse current waves, rectangular waves of long duration are also used for testing. The wave shape should be nominally rectangular in shape. The rectangular waves generally have durations of the order of ms, with rise and fall times of the waves being less than ±10% of their total duration. The tolerance allowed on the peak value is ±20%.
