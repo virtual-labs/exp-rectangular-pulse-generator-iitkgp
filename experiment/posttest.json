@@ -2,38 +2,41 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the main application of a Rectangular Pulse Current Generator?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "High-frequency radio transmission",
+        "b": "Power supply regulation",
+        "c": "Testing electronic components and biomedical applications",
+        "d": "AC motor control"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In a Rectangular Pulse Current Generator, what determines the repetition rate of the pulses?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The supply voltage",
+        "b": "The clock frequency or timing circuit",
+        "c": "The number of transistors used",
+        "d": "The resistance of the circuit"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What waveform is typically observed at the output of a Rectangular Pulse Current Generator?",
+      "answers": {
+        "a": "Sine wave",
+        "b": "Triangular wave",
+        "c": "Square wave",
+        "d": "Exponential wave"
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+
   ]
 }
