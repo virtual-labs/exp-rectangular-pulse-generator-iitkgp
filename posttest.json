@@ -1,0 +1,42 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the main application of a Rectangular Pulse Current Generator?",
+      "answers": {
+        "a": "High-frequency radio transmission",
+        "b": "Power supply regulation",
+        "c": "Testing electronic components and biomedical applications",
+        "d": "AC motor control"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a Rectangular Pulse Current Generator, what determines the repetition rate of the pulses?",
+      "answers": {
+        "a": "The supply voltage",
+        "b": "The clock frequency or timing circuit",
+        "c": "The number of transistors used",
+        "d": "The resistance of the circuit"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What waveform is typically observed at the output of a Rectangular Pulse Current Generator?",
+      "answers": {
+        "a": "Sine wave",
+        "b": "Triangular wave",
+        "c": "Square wave",
+        "d": "Exponential wave"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+
+  ]
+}
