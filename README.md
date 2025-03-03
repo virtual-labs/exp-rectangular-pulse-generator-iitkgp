@@ -6,7 +6,7 @@
 <b>Discipline | <b> Electrical Engineering  
 :--|:--|
 <b> Lab | <b> **Virtual High Voltage Laboratory**
-<b> Experiment|     <b> **Study of Rectangular Pulse Current Generator and Experiment 1**
+<b> Experiment|     <b> **Study of Rectangular Pulse Current Generator and Experiment 6**
 
 
 
