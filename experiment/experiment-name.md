@@ -1,1 +1,1 @@
-## Experiment name
+## Study of Rectangular Pulse Current Generator

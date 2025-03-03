@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary function of a Rectangular Pulse Current Generator?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To generate sinusoidal signals",
+        "b": "To provide a constant DC voltage",
+        "c": "To produce rectangular current pulses for testing applications",
+        "d": "To amplify weak signals"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which component is crucial for shaping the pulse in a Rectangular Pulse Current Generator?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Resistor",
+        "b": "Capacitor",
+        "c": "Inductor",
+        "d": "Transistor"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The pulse width of a Rectangular Pulse Current Generator is primarily controlled by:",
+      "answers": {
+        "a": "The amplitude of the input signal",
+        "b": "The capacitance of the circuit",
+        "c": "The time constant of the circuit components",
+        "d": "The type of power supply used"
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
